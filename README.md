@@ -18,10 +18,15 @@ This project analyzes and visualizes global vaccination and disease data to empo
 
 ## Folder Structure
 ```
-Data/
-|-- vaccination_report.db
-|-- vaccination_report.ipynb
-|-- vaccination_report.pbix
+├── Data/
+│ ├── coverage-data.csv
+│ ├── incidence-rate-data.csv
+│ ├── reported-cases-data.csv
+│ ├── vaccine-introduction-data.csv
+│ └── vaccine-schedule-data.csv
+├── vaccination_report.db
+├── vaccination_report.ipynb
+├── vaccination_report.pbix
 ```
 ---
 
